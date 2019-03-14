@@ -34,5 +34,5 @@ This is a LaTeX template designed for writing ~~endless~~ assignments in SUSTech
 
 ## Tips
 
-- You are encouraged to XeLaTeX or LuaLaTeX to compile your document;
+- Currently you need to compile your document with XeLaTeX;
 - You may enjoy using [Overleaf](https://www.overleaf.com), [Papeeria](https://www.papeeria.com), or other online LaTeX writing systems.
