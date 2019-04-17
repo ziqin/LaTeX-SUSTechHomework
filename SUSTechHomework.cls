@@ -1,3 +1,7 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{SUSTechHomework}[2019/03/09 SUSTech Homework LaTeX class]
 
