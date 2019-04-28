@@ -14,6 +14,8 @@ This is a LaTeX template designed for writing ~~endless~~ assignments in SUSTech
 ## Example
 
 ```latex
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8
 \documentclass[onecolumn,oneside]{SUSTechHomework}
 
 \author{Name}
